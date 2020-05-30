@@ -1,0 +1,4 @@
+Flask==1.0.2
+pandas==1.0.3
+numpy==1.18.1
+chatterbot==1.0.5
